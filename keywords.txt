@@ -1,0 +1,8 @@
+MentorBit_SGP30 KEYWORD1
+begin KEYWORD2
+tomarMedidas KEYWORD2
+obtenerTVOC KEYWORD2
+obtenerECO2 KEYWORD2
+obtenerH2Crudo KEYWORD2
+obtenerEtanolCrudo KEYWORD2
+obtenerNumeroSerie KEYWORD2
