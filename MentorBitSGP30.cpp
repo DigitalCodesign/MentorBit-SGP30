@@ -42,8 +42,7 @@ MentorBit_SGP30::MentorBit_SGP30(){
 
 bool MentorBit_SGP30::begin(){
 
-    _i2c_addr = 0x58;
-    if(sgp.begin(_i2c_addr)) return true;
+    if(sgp.begin()) return true;
     else return false;
 
 }
