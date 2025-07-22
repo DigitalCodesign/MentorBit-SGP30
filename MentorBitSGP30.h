@@ -57,7 +57,6 @@
 
         private:
 
-            uint8_t _i2c_addr;
             Adafruit_SGP30 sgp;
 
     };
